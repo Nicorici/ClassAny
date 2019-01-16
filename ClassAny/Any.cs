@@ -11,6 +11,6 @@ namespace ClassAny
         {
             this.accepted = accepted;
         }
-        
+        //i am not interested in what you hae to say
     }
 }
