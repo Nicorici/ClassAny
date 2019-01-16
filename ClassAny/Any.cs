@@ -11,6 +11,6 @@ namespace ClassAny
         {
             this.accepted = accepted;
         }
-        public 
+        
     }
 }
